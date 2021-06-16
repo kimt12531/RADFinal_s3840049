@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Student number: s3840049 (Kim Ta)
 
-Things you may want to cover:
+quizapi `apiKey`: o90E0Gp3KX4G8jHwhB80mE78aoFc3gNvPZaIUR50
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Heroku deployment url: https://evening-sands-48505.herokuapp.com/
